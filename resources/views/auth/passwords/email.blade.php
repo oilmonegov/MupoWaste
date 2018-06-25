@@ -18,7 +18,7 @@
         <div class="login-header">
             <div class="brand">
                 {{-- <span class="logo"></span> --}} <img src='{{ asset('mupo/img/mupo.png') }}' /> {{ __('Reset Password') }}
-                <small>provide your email address used to create the account</small>
+                <small>provide your email address used in the account</small>
             </div>
             <div class="icon">
                 <i class="material-icons">key</i>

@@ -14,6 +14,8 @@
 	<meta content="MupoWaste, Waste, Management, Reuse, Recycle, Clean, Environment, Login Page" name="keywords" />
     <meta content="MupoWaste Dev Team" name="author" />
 
+    <link rel="icon" href='{{ asset('mupo/img/mupo.png') }}' />
+
 	<!-- ================== BEGIN BASE CSS STYLE ================== -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic" rel="stylesheet" type="text/css" />
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
